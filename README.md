@@ -1,8 +1,8 @@
 # Olá, sou Daniel :)
 :
 
-- 👨‍💻 Sou estudante de Ciência da Computação na Universidade Federal de Sergipe
-- ☕ Atualmente estou me dedicando ao desenvolvimento em Java
+- 👨‍💻 Estudante de Ciência da Computação na Universidade Federal de Sergipe
+- ☕ Atualmente me dedicando ao desenvolvimento em Java
 
   ##
  
