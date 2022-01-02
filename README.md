@@ -1,4 +1,4 @@
-# Olá, sou Daniel :)
+# Olá, sou Daniel!
 :
 
 - 👨‍💻 Estudante de Ciência da Computação na Universidade Federal de Sergipe
