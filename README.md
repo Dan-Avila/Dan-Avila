@@ -2,7 +2,7 @@
 :
 
 - 👨‍💻 Estudante de Ciência da Computação na Universidade Federal de Sergipe
-- ☕ Atualmente me dedicando ao desenvolvimento em Java e Python
+- ☕ Atualmente me dedicando ao desenvolvimento em Java, Python e Haskell
 
   ##
  
